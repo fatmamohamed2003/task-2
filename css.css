@@ -266,3 +266,6 @@
 .portfolio .portfolio-content .card img {
   max-width: 100%;
 }
+.portfolio .portfolio-content .card .info {
+  padding: 20px;
+}
