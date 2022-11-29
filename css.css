@@ -208,4 +208,7 @@
       text-align: center;
     }
   }
-  
+  .services .services-content .srv i {
+    color: #10cab7;
+    flex-basis: 60px;
+  }
