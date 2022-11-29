@@ -262,9 +262,9 @@ html {
   /* End Services  */
   /* Start Portfolio */
 .portfolio {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #10cab7;
+  padding-top: var(--section-padding);
+  padding-bottom: var(--section-padding);
+  background-color: var(--main-color);
 }
 .portfolio .portfolio-content {
   display: grid;
