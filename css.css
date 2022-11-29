@@ -54,7 +54,7 @@ html {
   }
   .header .logo {
     width: 60px;
-    transition: 0.3;
+    transition: var(--main-duration);
   }
   .header .links {
     position: relative;
@@ -78,7 +78,7 @@ html {
   }
   .header .links .icon span:nth-child(2) {
     width: 60%;
-    transition: 0.3;
+    transition: var(--main-duration);
   }
   .header .links .icon span:last-child {
     width: 100%;
