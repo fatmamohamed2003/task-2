@@ -372,7 +372,13 @@
   letter-spacing: -2px;
   margin-bottom: 15px;
 }
-
+.contact .info .link {
+  display: block;
+  font-size: 35px;
+  font-weight: 800;
+  color: #10cab7;
+  text-decoration: none;
+}
 
 
 
