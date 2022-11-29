@@ -10,6 +10,17 @@ html {
   scroll-behavior: smooth;
 }
 
+/* Start Components */
+.special-heading {
+  color: #ebeced;
+  font-size: 100px;
+  text-align: center;
+  font-weight: 800;
+  letter-spacing: -3px;
+  margin: 0;
+}
+
+
 *{
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
