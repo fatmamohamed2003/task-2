@@ -140,7 +140,7 @@ html {
     margin: 0;
     font-weight: bold;
     font-size: 50px;
-    color: #10cab7;
+    color: var(--main-color);
   }
   .landing .intro-text p {
     font-size: 19px;
