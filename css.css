@@ -278,3 +278,14 @@
   margin-bottom: 0;
 }
 /* End Portfolio */
+.about {
+  padding-top: 60px;
+  padding-bottom: calc(60px + 60px);
+}
+
+.about .about-content {
+  margin-top: 100px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
