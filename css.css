@@ -40,4 +40,11 @@
     justify-content: space-between;
     align-items: center;
   }
+  .header .logo {
+    width: 60px;
+    transition: 0.3;
+  }
+  .header .links {
+    position: relative;
+  }
   
