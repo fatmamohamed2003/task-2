@@ -221,7 +221,7 @@ html {
     }
   }
   .services .services-content .srv i {
-    color: #10cab7;
+    color: var(--main-color);
     flex-basis: 60px;
   }
   .services .services-content .srv .text {
