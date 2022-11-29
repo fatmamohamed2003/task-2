@@ -140,3 +140,13 @@
     padding-bottom: 60px;
     background-color: #10cab7;
   }
+  .features .container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-gap: 20px;
+  }
+  .features .feat {
+    padding: 20px;
+    text-align: center;
+  }
+  
