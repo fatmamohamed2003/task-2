@@ -162,7 +162,7 @@ html {
     text-align: center;
   }
   .features .feat i {
-    color: #10cab7;
+    color: var(--main-color);
   }
   .features .feat h3 {
     font-weight: 800;
