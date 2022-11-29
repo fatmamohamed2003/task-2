@@ -316,3 +316,17 @@
   left: -20px;
   z-index: -1;
 }
+.about .about-content .image::after {
+  content: "";
+  top: -40px;
+  content: "";
+  position: absolute;
+  width: 120px;
+  height: 300px;
+  border-left: 80px solid #10cab7;
+  border-bottom: 80px solid #10cab7;
+  z-index: -1;
+  right: -150px;
+}
+
+
