@@ -31,3 +31,13 @@
       width: 1170px;
     }
   } 
+  /* Start Header */
+.header {
+    padding: 20px;
+  }
+  .header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
