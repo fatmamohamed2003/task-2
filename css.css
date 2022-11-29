@@ -254,3 +254,9 @@
   padding-bottom: 60px;
   background-color: #10cab7;
 }
+.portfolio .portfolio-content {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-gap: 30px;
+  margin-top: 80px;
+}
