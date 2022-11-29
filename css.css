@@ -379,6 +379,12 @@
   color: #10cab7;
   text-decoration: none;
 }
+.contact .info .social {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  font-size: 16px;
+}
 
 
 
