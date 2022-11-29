@@ -266,7 +266,7 @@ html {
 .portfolio {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
-  background-color: var(--main-color);
+  background-color: var(--section-background);
 }
 .portfolio .portfolio-content {
   display: grid;
